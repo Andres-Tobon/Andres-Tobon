@@ -1,6 +1,7 @@
-<div align="center" style="padding-top: 20px">
+<div align="center">
+<div align="center" style="padding-top: 20px;">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Waving hand"/>
-  <h2 align="center" style="font-size: 1em; color: #ffffff;">FULL-STACK DEVELOPER | CYBERSECURITY | AI INNOVATION</h2>
+  <h2 align="center" style="font-size: 1.8em; color: #00f7ff;">Fullstack Developer | AI | Cybersecurity</h2>
 </div>
 
 ---
@@ -10,7 +11,7 @@
     <td width="60%" valign="top" style="padding: 20px; text-align: left;">
       <h3 style="color: #00f7ff; margin-bottom: 15px;">About Me</h3>
       <p style="line-height: 1.6;">
-        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from **Colombia** with over 6 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
+        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 2 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
       </p>
       <p style="line-height: 1.6;">
         Currently, my mission is to revolutionize AI workflows with <strong><a href="https://github.com/andresTobon/AIDriven" style="color: #00f7ff;">AIDriven</a></strong>, a next-generation AI automation <i>no-code</i> platform.
