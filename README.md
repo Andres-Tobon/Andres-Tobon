@@ -18,7 +18,10 @@
       <p style="line-height: 1.6;">
         Currently, my mission is to revolutionize AI workflows with <strong><a href="https://github.com/andresTobon/AIDriven" style="color: #00f7ff;">AIDriven</a></strong>, a next-generation AI automation <i>no-code</i> platform.
       </p>
-      <div align="center" style="margin-top: 35px;">
+    </td>
+    <td width="100%" valign="top" style="padding: 20px; text-align: center;">
+      <img align="right" alt="Coding animation" width="100%" style="border-radius:15px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+    <div align="center" style="margin-top: 35px;">
         <a href="https://github.com/andresTobon/AIDriven">
           <img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="View AIDriven on GitHub"/>
         </a>
@@ -26,9 +29,6 @@
           <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo of AIDriven"/>
         </a>
       </div>
-    </td>
-    <td width="100%" valign="top" style="padding: 20px; text-align: center;">
-      <img align="right" alt="Coding animation" width="100%" style="border-radius:15px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
     </td>
   </tr>
 </table>
