@@ -11,7 +11,7 @@
     <td width="60%" valign="top" style="padding: 20px; text-align: left;">
       <h3 style="color: #00f7ff; margin-bottom: 15px;">About Me</h3>
       <p style="line-height: 1.6;">
-        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 2 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
+        Hi! I'm Andrés, a bilingual <strong>ES-EN</strong> passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 1 year of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
       </p>
       <p style="line-height: 1.6;">
         Currently, my mission is to revolutionize AI workflows with <strong><a href="https://github.com/andresTobon/AIDriven" style="color: #00f7ff;">AIDriven</a></strong>, a next-generation AI automation <i>no-code</i> platform.
