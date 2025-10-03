@@ -6,7 +6,7 @@
 
 ---
 
-<table width="100%" style="margin-top: 30px; border-collapse: separate; border-spacing: 0 10px;">
+<table width="100%" style="margin-top: 30px; border-collapse: separate; border-spacing: 0 10px; margin-bottom: 30px">
   <tr>
     <td width="60%" valign="top" style="padding: 20px; text-align: left;">
       <h3 style="color: #00f7ff; margin-bottom: 20px;">About Me</h3>
@@ -21,7 +21,7 @@
     </td>
     <td width="100%" valign="top" style="padding: 20px; text-align: center;">
       <img align="right" alt="Coding animation" width="100%" style="border-radius:15px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-    <div align="center" style="margin-top: 35px;">
+      <div align="center" style="margin-top: 35px; padding-top: 20px;">
         <a href="https://github.com/andresTobon/AIDriven">
           <img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="View AIDriven on GitHub"/>
         </a>
