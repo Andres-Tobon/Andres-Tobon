@@ -43,7 +43,10 @@
   <p style="margin-bottom: 20px;"><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,cpp,mysql,postgresql,mongodb,redis&theme=dark" alt="Backend and Database Technologies" /></p>
   
   <p style="font-size: 1.1em; font-weight: bold; color: #ffffff; margin-top: 30px;">DevOps, Cloud & Tools</p>
-  <p><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,linux,git,vscode&theme=dark" alt="DevOps and Cloud Technologies" /></p>
+  <p><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,vscode&theme=dark" alt="DevOps and Cloud Technologies" /></p>
+  
+  <p style="font-size: 1.1em; font-weight: bold; color: #ffffff; margin-top: 30px;">Currently Learning</p>
+  <p><img src="https://skillicons.dev/icons?i=kubernetes,aws,gcp,bash&theme=dark" alt="DevOps and Cloud Technologies" /></p>
 </div>
 
 ---
