@@ -1,14 +1,6 @@
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00f7ff,ffffff&height=180&section=header&text=ANDRÉS%20TOBÓN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=FULL-STACK%20DEVELOPER%20|%20CYBERSECURITY%20|%20AI%20INNOVATION&descAlignY=65&descSize=18"
-    alt="Andrés Tobón Profile Header"
-  />
-</div>
-
-<div align="center" style="padding-top: 20px;">
+<div align="center" style="padding-top: 20px">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Waving hand"/>
-  <h2 align="center" style="font-size: 1.8em; color: #00f7ff;">Building the Future with AI, Security, and Code.</h2>
+  <h2 align="center" style="font-size: 1em; color: #ffffff;">FULL-STACK DEVELOPER | CYBERSECURITY | AI INNOVATION</h2>
 </div>
 
 ---
@@ -72,21 +64,4 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="center" style="margin-top: 30px; padding-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=andresTobon&label=PROFILE+VIEWS&style=flat-square&color=00f7ff" alt="Profile Views Counter"/>
-</div>
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,00f7ff,ffffff&height=100&section=footer&animation=fadeIn"
-    alt="Profile Footer"
-  />
-  <p style="font-size: 0.9em; margin-top: -30px; color: #ffffff;">
-    Made with ❤️ by Andrés Tobón | Last updated: October 3, 2025, 01:08 PM COT
-  </p>
 </div>
