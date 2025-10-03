@@ -37,7 +37,7 @@
   <h3 style="color: #00f7ff; margin-bottom: 25px;">My Tech Stack</h3>
   
   <p style="font-size: 1.1em; font-weight: bold; color: #ffffff;">Frontend</p>
-  <p style="margin-bottom: 20px;"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite,tauri,html,css,js&theme=dark" alt="Frontend Technologies" /></p>
+  <p style="margin-bottom: 20px;"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,tauri,html,css,js&theme=dark" alt="Frontend Technologies" /></p>
   
   <p style="font-size: 1.1em; font-weight: bold; color: #ffffff; margin-top: 30px;">Backend & Databases</p>
   <p style="margin-bottom: 20px;"><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,cpp,mysql,postgresql,mongodb,redis&theme=dark" alt="Backend and Database Technologies" /></p>
