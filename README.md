@@ -8,10 +8,12 @@
 
 <table width="100%" style="margin-top: 30px; border-collapse: separate; border-spacing: 0 10px;">
   <tr>
-    <td width="60%" valign="top" style="padding: 20px; text-align: left;">
-      <h3 style="color: #00f7ff; margin-bottom: 15px;">About Me</h3>
+    <td width="52%" valign="top" style="padding: 20px; text-align: left;">
+      <h3 style="color: #00f7ff; margin-bottom: 20px;">About Me</h3>
       <p style="line-height: 1.6;">
-        Hi! I'm Andrés, a bilingual <strong>ES-EN</strong> passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 1 year of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
+        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 2 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure. 
+        <br><br> 
+        I specialize in API design and integration, and I’m increasingly focused on Artificial Intelligence to build smarter, automated solutions.
       </p>
       <p style="line-height: 1.6;">
         Currently, my mission is to revolutionize AI workflows with <strong><a href="https://github.com/andresTobon/AIDriven" style="color: #00f7ff;">AIDriven</a></strong>, a next-generation AI automation <i>no-code</i> platform.
@@ -25,7 +27,7 @@
         </a>
       </div>
     </td>
-    <td width="40%" valign="top" style="padding: 20px; text-align: center;">
+    <td width="100%" valign="top" style="padding: 20px; text-align: center;">
       <img align="right" alt="Coding animation" width="100%" style="border-radius:15px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
     </td>
   </tr>
