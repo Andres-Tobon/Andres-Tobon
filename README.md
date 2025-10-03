@@ -16,9 +16,9 @@
 <table width="100%" style="margin-top: 30px; border-collapse: separate; border-spacing: 0 10px;">
   <tr>
     <td width="60%" valign="top" style="padding: 20px; text-align: left;">
-      <h3 style="color: #00f7ff; margin-bottom: 15px;">🚀 Sobre Mí</h3>
+      <h3 style="color: #00f7ff; margin-bottom: 15px;">Sobre Mí</h3>
       <p style="line-height: 1.6;">
-        ¡Hola! Soy Andrés, un apasionado <strong>Desarrollador Full-Stack</strong> e <strong>Investigador de Seguridad</strong> de 🇨🇴 <strong>Colombia</strong> con más de 6 años de experiencia. Mi especialidad es crear aplicaciones de alto impacto que no solo son escalables y eficientes, sino también robustas y seguras.
+        ¡Hola! Soy Andrés, un apasionado <strong>Desarrollador Full-Stack</strong> e <strong>Investigador de Seguridad</strong> de **Colombia** con más de 6 años de experiencia. Mi especialidad es crear aplicaciones de alto impacto que no solo son escalables y eficientes, sino también robustas y seguras.
       </p>
       <p style="line-height: 1.6;">
         Actualmente, mi misión es revolucionar los flujos de trabajo de IA con <strong><a href="https://github.com/andresTobon/AIDriven" style="color: #00f7ff;">AIDriven</a></strong>, una plataforma <i>no-code</i> de automatización de IA de próxima generación.
@@ -41,7 +41,7 @@
 ---
 
 <div align="center" style="padding: 20px;">
-  <h3 style="color: #00f7ff; margin-bottom: 25px;">🛠️ Mi Stack Tecnológico</h3>
+  <h3 style="color: #00f7ff; margin-bottom: 25px;">Mi Stack Tecnológico</h3>
   
   <p style="font-size: 1.1em; font-weight: bold; color: #ffffff;">Frontend</p>
   <p style="margin-bottom: 20px;"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite,tauri,html,css,js&theme=dark" alt="Tecnologías Frontend" /></p>
@@ -56,7 +56,7 @@
 ---
 
 <div align="center" style="padding: 20px;">
-  <h3 style="color: #00f7ff; margin-bottom: 25px;">📊 Actividad en GitHub</h3>
+  <h3 style="color: #00f7ff; margin-bottom: 25px;">Actividad en GitHub</h3>
   <table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
     <tr>
       <td width="50%" align="center" style="padding: 10px;">
@@ -87,6 +87,6 @@
     alt="Pie de página del perfil"
   />
   <p style="font-size: 0.9em; margin-top: -30px; color: #ffffff;">
-    ⚡ Hecho con ❤️ por Andrés Tobón | Última actualización: 3 de octubre de 2025, 01:08 PM COT
+    Hecho con ❤️ por Andrés Tobón | Última actualización: 3 de octubre de 2025, 01:08 PM COT
   </p>
 </div>
