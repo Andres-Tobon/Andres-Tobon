@@ -4,15 +4,14 @@
   <h2 align="center" style="font-size: 1.8em; color: #00f7ff;">Fullstack Developer | AI | Cybersecurity</h2>
 </div>
 
----
 
 <table width="100%" style="margin-top: 30px; border-collapse: separate; border-spacing: 0 10px; margin-bottom: 30px">
   <tr>
-    <td width="60%" valign="top" style="padding: 20px; text-align: left;">
+    <td width="50%" valign="top" style="padding: 20px; text-align: left;">
       <h3 style="color: #00f7ff; margin-bottom: 20px;">About Me</h3>
       <p style="line-height: 1.6;">
-        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 2 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure. 
-        <br><br> 
+        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 2 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
+        <br><br>
         I specialize in API design and integration, and I’m increasingly focused on Artificial Intelligence to build smarter, automated solutions.
       </p>
       <p style="line-height: 1.6;">
@@ -21,11 +20,12 @@
     </td>
     <td width="100%" valign="top" style="padding: 20px; text-align: center;">
       <img align="right" alt="Coding animation" width="100%" style="border-radius:15px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-      <div align="center" style="margin-top: 35px; padding-top: 20px;">
-        <a href="https://github.com/andresTobon/AIDriven">
+      <!-- Separación confiable de los botones -->
+      <div align="center" style="margin-top: 40px;">
+        <a href="https://github.com/andresTobon/AIDriven" style="display: inline-block; margin-top: 10px;">
           <img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="View AIDriven on GitHub"/>
         </a>
-        <a href="#">
+        <a href="#" style="display: inline-block; margin-top: 10px;">
           <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo of AIDriven"/>
         </a>
       </div>
@@ -33,7 +33,6 @@
   </tr>
 </table>
 
----
 
 <div align="center" style="padding: 20px;">
   <h3 style="color: #00f7ff; margin-bottom: 25px;">My Tech Stack</h3>
