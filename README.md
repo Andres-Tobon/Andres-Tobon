@@ -47,7 +47,7 @@
   <p><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,bash,ubuntu,vscode&theme=dark" alt="DevOps and Cloud Technologies" /></p>
   
   <p style="font-size: 1.1em; font-weight: bold; color: #ffffff; margin-top: 30px;">Currently Learning</p>
-  <p><img src="https://skillicons.dev/icons?i=kubernetes,aws,gcp&theme=dark" alt="DevOps and Cloud Technologies" /></p>
+  <p><img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,jira,ansible,gcp&theme=dark" alt="DevOps and Cloud Technologies" /></p>
 </div>
 
 ---
