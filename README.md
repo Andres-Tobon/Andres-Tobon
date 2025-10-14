@@ -10,7 +10,7 @@
     <td width="55%" valign="top" style="padding: 20px; text-align: left;">
       <h3 style="color: #00f7ff; margin-bottom: 20px;">About Me</h3>
       <p style="line-height: 1.6;">
-        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 2 years of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
+        Hi! I'm Andrés, a passionate <strong>Full-Stack Developer</strong> and <strong>Security Researcher</strong> from <strong>Colombia</strong> with over 1 year of experience. My specialty is creating high-impact applications that are not only scalable and efficient, but also robust and secure.
         <br><br>
         I specialize in API design and integration, and I’m increasingly focused on Artificial Intelligence to build smarter, automated solutions.
       </p>
