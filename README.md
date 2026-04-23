@@ -15,18 +15,18 @@
         I specialize in API design and integration, and I’m increasingly focused on Artificial Intelligence to build smarter, automated solutions.
       </p>
       <p style="line-height: 1.6;">
-        Currently, my mission is to revolutionize AI with <strong><a href="https://github.com/Andres-Tobon/AIDriven" style="color: #00f7ff;">ITHØS powered by AIDriven</a></strong>, a next-generation AI, getting really close to a fully functional AGI system <i>no-code</i> platform.
+        Currently, my mission is to revolutionize AI with <strong><a href="https://github.com/Andres-Tobon/ithos" style="color: #00f7ff;">ITHØS powered by ithos</a></strong>, a next-generation AI, getting really close to a fully functional AGI system <i>no-code</i> platform.
       </p>
     </td>
     <td width="100%" valign="top" style="padding: 20px; text-align: center;">
       <img align="right" alt="Coding animation" width="100%" style="border-radius:15px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
       <!-- Separación confiable de los botones -->
       <div align="center" style="margin-top: 40px;">
-        <a href="https://github.com/Andres-Tobon/AIDriven" style="display: inline-block; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="View AIDriven on GitHub"/>
+        <a href="https://github.com/Andres-Tobon/ithos" style="display: inline-block; margin-top: 10px;">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="View ithos on GitHub"/>
         </a>
         <a href="#" style="display: inline-block; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo of AIDriven"/>
+          <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo of ithos"/>
         </a>
       </div>
     </td>
