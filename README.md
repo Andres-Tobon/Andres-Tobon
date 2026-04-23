@@ -15,7 +15,7 @@
         I specialize in API design and integration, and I’m increasingly focused on Artificial Intelligence to build smarter, automated solutions.
       </p>
       <p style="line-height: 1.6;">
-        Currently, my mission is to revolutionize AI with <strong><a href="https://github.com/Andres-Tobon/AIDriven" style="color: #00f7ff;">AIDriven</a></strong>, a next-generation AI, getting really close to a fully functional AGI system <i>no-code</i> platform.
+        Currently, my mission is to revolutionize AI with <strong><a href="https://github.com/Andres-Tobon/AIDriven" style="color: #00f7ff;">ITHØS powered by AIDriven</a></strong>, a next-generation AI, getting really close to a fully functional AGI system <i>no-code</i> platform.
       </p>
     </td>
     <td width="100%" valign="top" style="padding: 20px; text-align: center;">
