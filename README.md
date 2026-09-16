@@ -82,29 +82,6 @@ I design **AGI-oriented cognitive architectures**, **high-performance backend en
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Andres-Tobon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&count_private=true&border_radius=15" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-Tobon&theme=radical&hide_border=true&background=0D1117&ring=00f7ff&fire=ffffff&currStreakLabel=00f7ff&sideLabels=00f7ff&sideNums=c9d1d9&dates=8b949e&border_radius=15" alt="GitHub Streak" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Tobon&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&layout=compact&langs_count=10&border_radius=15" alt="Most Used Languages" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andres-Tobon&theme=react-dark&hide_border=true&bg_color=0D1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff" alt="Contribution Graph" width="98%"/>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andres-Tobon&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
