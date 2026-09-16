@@ -24,7 +24,7 @@ class AndresTobon:
         self.role = "AI-Native Full-Stack Engineer"
         self.company = "Aidriven Holdings"
         self.location = "Colombia"
-        self.focus = ["Autonomous Agents", "Backend Architecture", "Scalable Systems"]
+        self.focus = ["Autonomous Agents", "Backend Architecture", "Frontend UI/UX", "Scalable Systems"]
         self.currently_building = ["Ithos", "Nabla", "ADE"]
 
     def philosophy(self):
