@@ -110,9 +110,6 @@ I design **AGI-oriented cognitive architectures**, **high-performance backend en
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andres-Tobon/Andres-Tobon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contribution graph"/>
 </div>
-
-> This animation is generated with **GitHub Actions**. Add the `snake.yml` workflow to `.github/workflows/` in your `Andres-Tobon/Andres-Tobon` repository to update it automatically every day. See [platane/snk](https://github.com/Platane/snk).
-
 ---
 
 <div align="center">
