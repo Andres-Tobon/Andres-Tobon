@@ -110,7 +110,6 @@ I design **AGI-oriented cognitive architectures**, **high-performance backend en
 <div align="center">
   <img src="https://raw.githubusercontent.com/Andres-Tobon/Andres-Tobon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contribution graph"/>
 </div>
----
 
 <div align="center">
 
