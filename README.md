@@ -87,9 +87,21 @@ I research and design **AGI-oriented cognitive architectures**, **high-performan
 
 ### Let's Connect
 
-<a href="https://github.com/Andres-Tobon"><img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Twitter_/_X-00f7ff?style=for-the-badge&logo=x&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://github.com/Andres-Tobon">
+  <img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a> 
 
-<br><br>
+<a href="https://www.linkedin.com/in/andres-felipe-tobon-zuluaga-296361397">
+  <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a> 
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter_/_X-00f7ff?style=for-the-badge&logo=x&logoColor=black"/>
+</a> 
+
+<a href="mailto:aftobon8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
 <i>"Designing systems that think, scale, and build themselves."</i>
 
