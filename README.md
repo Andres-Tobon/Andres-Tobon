@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00f7ff,100:0D1117&height=200&section=header&text=Andr%C3%A9s%20Tob%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full-Stack%20Engineer&descAlignY=55&descSize=20&descColor=00f7ff" width="100%"/>
 
 <a href="https://github.com/Andres-Tobon/ithos">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+autonomous+agent+systems;Engineering+high-performance+systems;Working+on+%40+Aidriven+SAS;Contributor+of+Ithos+%2F+Nabla+%2F+ADE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+autonomous+agent+systems;Engineering+high-performance+systems;Working+on+%40+Aidriven+SAS;Contributing+on+Aidriven+Projects" alt="Typing SVG" />
 </a>
 
 <br>
@@ -25,13 +25,11 @@ class AndresTobon:
         self.company = "Aidriven SAS"
         self.location = "Colombia"
         self.focus = ["Autonomous Agents", "Backend Architecture", "Frontend UI/UX", "Scalable Systems"]
-        self.currently_building = ["Ithos", "Nabla", "ADE", "Side-Projects"]
+        self.currently_building = ["AIDriven Projects", "Side-Projects"]
 
     def philosophy(self):
         return "Designing systems that think, scale, and build themselves."
 ```
-
-I research and design **AGI-oriented cognitive architectures**, **high-performance backend engines**, and **autonomous agent frameworks**. At **Aidriven SAS**, I contribute for the development of core systems and AI-driven development frameworks, pushing the boundaries of modern software engineering.
 
 ---
 
@@ -42,18 +40,12 @@ I research and design **AGI-oriented cognitive architectures**, **high-performan
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/Andres-Tobon/ithos">
-        <img src="https://img.shields.io/badge/ITHOS-Cognitive_Architecture-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-      <br><sub>AGI-oriented cognitive architecture</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/NABLA-High_Perf_Backend-ff6b00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BackEngine-High_Perf_Backend-ff6b00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
       <br><sub>High-performance backend engine</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/ADE-Autonomous_Agents-b967ff?style=for-the-badge&logo=robotframework&logoColor=white"/>
-      <br><sub>Aidriven Developer Engine</sub>
+      <img src="https://img.shields.io/badge/AgentF-Autonomous_Agents-b967ff?style=for-the-badge&logo=robotframework&logoColor=white"/>
+      <br><sub>Developer Engine</sub>
     </td>
   </tr>
 </table>
