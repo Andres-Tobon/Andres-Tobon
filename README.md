@@ -91,7 +91,7 @@ I research and design **AGI-oriented cognitive architectures**, **high-performan
   <img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a> 
 
-<a href="https://www.linkedin.com/in/andres-felipe-tobon-zuluaga-296361397">
+<a href="https://www.linkedin.com/in/andres-tobon/">
   <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a> 
 
