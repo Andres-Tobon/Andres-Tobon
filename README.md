@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00f7ff,100:0D1117&height=200&section=header&text=Andr%C3%A9s%20Tob%C3%B3n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full-Stack%20Engineer&descAlignY=55&descSize=20&descColor=00f7ff" width="100%"/>
 
 <a href="https://github.com/Andres-Tobon/ithos">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+autonomous+agent+systems;Engineering+high-performance+systems;Co-Founder+%40+Aidriven+Holdings;Creator+of+Ithos+%2F+Nabla+%2F+ADE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+autonomous+agent+systems;Engineering+high-performance+systems;Working+on+%40+Aidriven+SAS;Contributor+of+Ithos+%2F+Nabla+%2F+ADE" alt="Typing SVG" />
 </a>
 
 <br>
@@ -21,17 +21,17 @@
 ```python
 class AndresTobon:
     def __init__(self):
-        self.role = "AI-Native Full-Stack Engineer"
-        self.company = "Aidriven Holdings"
+        self.role = "Junior AI-Native Full-Stack Engineer"
+        self.company = "Aidriven SAS"
         self.location = "Colombia"
         self.focus = ["Autonomous Agents", "Backend Architecture", "Frontend UI/UX", "Scalable Systems"]
-        self.currently_building = ["Ithos", "Nabla", "ADE"]
+        self.currently_building = ["Ithos", "Nabla", "ADE", "Side-Projects"]
 
     def philosophy(self):
         return "Designing systems that think, scale, and build themselves."
 ```
 
-I design **AGI-oriented cognitive architectures**, **high-performance backend engines**, and **autonomous agent frameworks**. At **Aidriven Holdings**, I lead the development of core systems and AI-driven development frameworks, pushing the boundaries of modern software engineering.
+I research and design **AGI-oriented cognitive architectures**, **high-performance backend engines**, and **autonomous agent frameworks**. At **Aidriven SAS**, I contribute for the development of core systems and AI-driven development frameworks, pushing the boundaries of modern software engineering.
 
 ---
 
@@ -58,9 +58,6 @@ I design **AGI-oriented cognitive architectures**, **high-performance backend en
   </tr>
 </table>
 
-<a href="https://github.com/Andres-Tobon/ithos">
-  <img src="https://img.shields.io/badge/VIEW_ITHOS_ON_GITHUB-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="View Ithos on GitHub"/>
-</a>
 
 </div>
 
